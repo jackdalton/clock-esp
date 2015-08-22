@@ -1,0 +1,10 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu);
+body {
+	margin: 0;
+	background-color: #e67e22;
+}
+#main-clock {
+	font-family: "Ubuntu", sans-serif;
+	font-weight: bold;
+	font-size: 200px;
+}
