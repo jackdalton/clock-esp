@@ -8,3 +8,13 @@ body {
 	font-weight: bold;
 	font-size: 200px;
 }
+#mp {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+}
+#src {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+}
