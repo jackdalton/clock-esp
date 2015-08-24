@@ -6,7 +6,7 @@
 		var h, m;
 		if (now.getMinutes() > 30) {
 			m = numbers[60 - now.getMinutes()];
-			if (now.getHours() == 2 || now.getHours() == 14) {
+			if (now.getHours() == 0 || now.getHours() == 12) {
 				h = "una";
 				output = "Es la una menos " + m;
 			} else {
